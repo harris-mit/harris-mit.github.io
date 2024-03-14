@@ -1,3 +1,5 @@
-Draft(s) available here:
+Drafts available here:
 
-[Cubic Spline Nonnegativity](https://github.com/harris-mit/harris-mit.github.io/blob/80cbb7be5712f061b7295b040b5a84c385c9a6bc/preprints/Cubic_Spline_Nonnegativity.pdf)
+[Cubic Spline Nonnegativity](https://github.com/harris-mit/harris-mit.github.io/blob/master/preprints/Cubic_Spline_Nonnegativity.pdf)
+
+[Learning Polynomial Problems with $SL(2, \mathbb{R})$- Equivariance](https://github.com/harris-mit/harris-mit.github.io/blob/master/preprints/SL_2__Equivariant_Nets_wAppendix.pdf)
